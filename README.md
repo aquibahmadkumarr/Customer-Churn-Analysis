@@ -25,7 +25,7 @@ This project analyzes customer churn to identify key factors influencing custome
 ## 🚀 How to Use This Project
 ### **1. Clone the Repository**
 ```
-git clone https://github.com/your-username/Customer-Churn-Analysis.git
+git clone https://github.com/aquibahmadkumarr/Customer-Churn-Analysis.git
 cd Customer-Churn-Analysis
 ```
 

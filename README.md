@@ -1,7 +1,7 @@
 # Loyalty Drain Analysis
 
 ## 📌 Project Overview
-This project analyzes customer churn to identify key factors influencing customer retention. It includes **Exploratory Data Analysis (EDA), data preprocessing, and visualizations** to help businesses reduce churn and improve customer satisfaction.
+This project analyzes Customer Turnover to identify key factors influencing customer retention. It includes **Exploratory Data Analysis (EDA), data preprocessing, and visualizations** to help businesses reduce churn and improve customer satisfaction.
 
 ## 📂 Dataset
 - **File:** `Loyalty Analysis.csv`
